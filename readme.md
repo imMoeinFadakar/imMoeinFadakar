@@ -39,7 +39,7 @@
 <p>
 <img src="https://img.shields.io/badge/instagram-moeinfdkr-orange?logo=instagram&style=for-the-badge&logoColor=white">
  <img src="https://img.shields.io/badge/linkedin-moeinfdkr-lightblue?logo=linkedin&style=for-the-badge&logoColor=white" >
-<img src="https://img.shields.io/badge/telegram-moeinfdkr-blue?logo=telegram&style=for-the-badge&logoColor=white" >
+<img src="https://img.shields.io/badge/telegram-Moein23445-blue?logo=telegram&style=for-the-badge&logoColor=white" >
 <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-red?logo=gmail&style=for-the-badge&logoColor=white" >
 
 </p>
