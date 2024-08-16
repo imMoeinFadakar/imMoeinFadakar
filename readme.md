@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMoeinFadakar&layout=compact" >
 
 </a>
-<h2>📞   Connct Me</h2>
+<h2>📞  find me in:</h2>
 
 <p>
 <img src="https://img.shields.io/badge/instagram-moeinfdkr-orange?logo=instagram&style=for-the-badge&logoColor=white">
