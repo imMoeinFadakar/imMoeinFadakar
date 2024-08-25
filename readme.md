@@ -8,7 +8,7 @@
 <h2>🔧   Tech Stack</h2>
 
 <h3>languages :</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,mysql)](https://skillicons.dev)
 
 <h3>library and frameworks :</h3>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,)](https://skillicons.dev)
