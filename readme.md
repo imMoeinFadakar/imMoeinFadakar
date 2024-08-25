@@ -3,21 +3,21 @@
 
 * 🫡 js , and php Developer
 * 🌱 Learning python
-* ✍️  Coding and Drinking Coffee are my hobby :))
+* ✍️  Coding and Drinking Coffee are my hobby :)
 
 <h2>🔧   Tech Stack</h2>
 
-* <p>💻 : <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" > </p>   
+<h3>languages :</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,mysql)](https://skillicons.dev)
 
-* <a> 🌐 : <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" >
+<h3>library and frameworks :</h3>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,)](https://skillicons.dev)
 
+<h3>IDE and editors:</h3>
+[![My Skills](https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma)](https://skillicons.dev)
 
-</a>
-
-* <p> 🛢 : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></p>
-* <p>⚙️: <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > <img src="https://img.shields.io/badge/Markdown-lightgray?style=for-the-badge&logo=markdown&logoColor=white" ></p>
-* <p>🔧:  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Pycarm-black?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/phpstorm-black?style=for-the-badge&logo=phpstorm&logoColor=white">
-</p>
+<h3>DEV tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,)](https://skillicons.dev)
 
 
 <h2>🏆   achivments</h2>
@@ -27,15 +27,15 @@
 
 <h2>⚡️   Github Stats</h2>
 
-<a>
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imMoeinFadakar&show_icons=true)
 
-<h2>💻 Most used Language`s </h2>
+<h2> 💻 Most used Language`s </h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMoeinFadakar&layout=compact" >
 
-</a>
+
 <h2>📞  find me in:</h2>
 
 <p>
@@ -43,6 +43,7 @@
  <img src="https://img.shields.io/badge/linkedin-moeinfdkr-lightblue?logo=linkedin&style=for-the-badge&logoColor=white" >
 <img src="https://img.shields.io/badge/telegram-Moein23445-blue?logo=telegram&style=for-the-badge&logoColor=white" >
 <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-red?logo=gmail&style=for-the-badge&logoColor=white" >
+<img src="https://img.shields.io/badge/website-www.moeinfadakar.ir-green?style=for-the-badge&logoColor=white" >
 
 </p>
 
