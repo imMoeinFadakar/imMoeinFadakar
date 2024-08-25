@@ -8,16 +8,16 @@
 <h2>🔧   Tech Stack</h2>
 
 <h3>languages :</h3>
-![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,mysql)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,css,php,python,mysql" >
 
 <h3>library and frameworks :</h3>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel," >
 
 <h3>IDE and editors:</h3>
-[![My Skills](https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma" >
 
 <h3>DEV tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,gitlab," >
 
 
 <h2>🏆   achivments</h2>
