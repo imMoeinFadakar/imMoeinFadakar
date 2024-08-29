@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+moein+fadakar🖐;I%27m+a+backend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000&color=red" alt="Example Usage - README Typing SVG">
 </p>
-<h5> <img alt='About Me' width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-customer-48.png?raw=true" /> ABOUT ME</h5>
+<h5> 👋 &nbsp ABOUT ME</h5>
 
 * 🫡 js , and php Developer
 * 🌱 Learning python
 * ✍️  Coding and Drinking Coffee are my hobby :)
 
-<h2>🔧   Tech Stack</h2>
+<h2>🔧 &nbsp Tech Stack</h2>
 
 <h3>languages :</h3>
 <img src="https://skillicons.dev/icons?i=js,html,css,php,python,mysql" >
@@ -22,23 +22,23 @@
 <img src="https://skillicons.dev/icons?i=git,github,gitlab," >
 
 
-<h2>🏆   achivments</h2>
+<h2>🏆 &nbsp achivments</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imMoeinFadakar
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2>⚡️   Github Stats</h2>
+<h2>⚡️ &nbsp Github Stats</h2>
 
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imMoeinFadakar&show_icons=true)
 
-<h2> 💻 Most used Language`s </h2>
+<h2> 💻 &nbsp Most used Language`s </h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMoeinFadakar&layout=compact" >
 
 
-<h2>📞  find me in:</h2>
+<h2>📞 &nbsp find me in:</h2>
 
 <p>
 <img src="https://img.shields.io/badge/instagram-moeinfdkr-orange?logo=instagram&style=for-the-badge&logoColor=white">
