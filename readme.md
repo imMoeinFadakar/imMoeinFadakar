@@ -12,7 +12,7 @@
     "family" => "fadakar",
     "city" => "mashhad",
     "university" => "mashhad",
-    "position" => "backend",];
+    "position" => "backend"];
 
     return $content 
     }
