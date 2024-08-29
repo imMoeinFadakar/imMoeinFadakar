@@ -3,17 +3,19 @@
 </p>
 
 
+```php
+
+    function aboutme(){
 
     $content = [ 
     "name" => "moein",
     "family" => "fadakar",
     "city" => "mashhad",
-    "country" => "iran",
-    "position" => "backend",
-    ];
-  
-    return $content;
-
+    "university" => "mashhad",
+    "position" => "backend",];
+    return $content 
+    }
+```
 <h5> 👋 &nbsp ABOUT ME</h5>
 
 * 🫡 js , and php Developer
