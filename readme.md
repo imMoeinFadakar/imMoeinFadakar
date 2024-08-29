@@ -1,4 +1,6 @@
-<h2>Hi There 👋 my name is moein fadakar </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+moein+fadakar🖐;I%27m+a+backend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+</p>
 <h5>ABOUT ME</h5>
 
 * 🫡 js , and php Developer
