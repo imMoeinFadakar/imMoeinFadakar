@@ -17,11 +17,6 @@
     return $content 
     }
 ```
-<h5> 👋 &nbsp ABOUT ME</h5>
-
-* 🫡 js , and php Developer
-* 🌱 Learning python
-* ✍️  Coding and Drinking Coffee are my hobby :)
 
 <h2>🔧 &nbsp Tech Stack</h2>
 
