@@ -11,7 +11,7 @@ class about extends me
 
     function aboutme(){
 
-    return [
+    $content = [
     "name" => "moein",
     "family" => "fadakar",
     "city" => "mashhad",
