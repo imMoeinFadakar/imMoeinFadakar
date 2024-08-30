@@ -5,7 +5,7 @@
 
 ```php
 <?php
-namespace moein
+namespace moeins_information
 
 class about extends me
 
