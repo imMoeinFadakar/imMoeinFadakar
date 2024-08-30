@@ -7,14 +7,13 @@
 
     function aboutme(){
 
-    $content = [ 
+    return [
     "name" => "moein",
     "family" => "fadakar",
     "city" => "mashhad",
     "university" => "mashhad",
     "position" => "backend"];
 
-    return $content 
     }
 ```
 
