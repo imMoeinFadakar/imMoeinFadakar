@@ -5,6 +5,10 @@
 
 ```php
 
+namespace moein
+
+class about extends me
+
     function aboutme(){
 
     return [
