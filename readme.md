@@ -4,11 +4,9 @@
 
 
 ```php
-<?php
-
     function aboutme(){
 
-    $content = [
+    return = [
     "name" => "moein",
     "family" => "fadakar",
     "city" => "mashhad",
