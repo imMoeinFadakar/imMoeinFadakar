@@ -33,7 +33,7 @@ class about extends me
 <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma" >
 
 <h3>DEV tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab," >
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" >
 
 
 <h2>🏆 &nbsp achivments</h2>
