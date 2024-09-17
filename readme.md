@@ -5,9 +5,7 @@
 
 ```php
 <?php
-namespace moeins_information
 
-class about extends me
 
     function aboutme(){
 
