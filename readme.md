@@ -59,7 +59,7 @@
 </p>
 
 
-<h6 align="center" >from moein with ❤️‍🔥</h6>
+<h6 align="center" >by moein with ❤️‍🔥</h6>
 
 
 
