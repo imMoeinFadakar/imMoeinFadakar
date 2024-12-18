@@ -9,7 +9,7 @@
     return = [
     "name" => "moein",
     "family" => "fadakar",
-    "countery"=>"iran",
+    "country"=>"iran",
     "city" => "mashhad",
     "university" => "mashhad",
     "position" => "backend"];
