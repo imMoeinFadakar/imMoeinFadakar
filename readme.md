@@ -20,7 +20,10 @@
 <h2>🔧 &nbsp Tech Stack</h2>
 
 <h3>languages :</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,python,mysql" >
+<img src="https://skillicons.dev/icons?i=js,html,css,php,python" >
+
+<h3>Database :</h3>
+<img src="https://skillicons.dev/icons?i=mysql" >
 
 <h3>library and frameworks :</h3>
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel," >
