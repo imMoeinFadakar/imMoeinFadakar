@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,php,python" >
 
 <h3>Database :</h3>
-<img src="https://skillicons.dev/icons?i=mysql" >
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver" >
 
 <h3>library and frameworks :</h3>
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel," >
