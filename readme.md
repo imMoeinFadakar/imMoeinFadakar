@@ -6,7 +6,7 @@
 ```php
     function aboutme(){
 
-    return = [
+    return  [
     "name" => "moein",
     "family" => "fadakar",
     "country"=>"iran",
